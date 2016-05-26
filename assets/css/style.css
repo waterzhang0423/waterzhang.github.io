@@ -1834,6 +1834,9 @@ a .icon-flip-vertical:before {
 .icon-google-plus:before {
   content: "\f0d5";
 }
+.icon-sina-weibo:before {
+  content: "\f18a";
+}
 .icon-money:before {
   content: "\f0d6";
 }
