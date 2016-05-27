@@ -16,6 +16,8 @@ GitHub 原生支持 Jekyll，网上有非常多的开源的、精美的 Jekyll �
 
 这是我的博客用的模板，[效果预览](http://www.pfnotes.cn)。这个模板是基于一个开源模板改的，主要将英文改成了中文，替换 CSS、JS 等静态资源镜像和随着个人喜好改动了一些页面样式。
 
+[一些开源 Jekyll 模板](https://github.com/jekyll/jekyll/wiki/sites)
+
 [我的博客源码](https://github.com/waterzhang0423/waterzhang0423.github.io)
 
 ## 本地环境搭建
