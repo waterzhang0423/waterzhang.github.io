@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "基于 Jekyll、GitHub 搭建个人博客"
-excerpt: 这里介绍如何在 Mac 上利用 Jekyll 的模板和 GitHub 来快速搭建起一个个人博客，需要懂一些基础的 Git 操作和一个 GitHub 账号。Jekyll 是一个静态网站生成器。GitHub 原生支持 Jekyll，网上有非常多的开源的、精美的 Jekyll 模板，找一个喜欢的模板，修改一些参数，马上就可以发布到 GitHub，博客就这么搭好了。GitHub 原生支持 Jekyll，网上有非常多的开源的、精美的 Jekyll 模板，找一个喜欢的模板，修改一些参数，马上就可以发布到 GitHub，博客就这么搭好了。
+excerpt: 这里介绍如何在 Mac 上利用 Jekyll 的模板和 GitHub 来快速搭建起一个个人博客，需要懂一些基础的 Git 操作和一个 GitHub 账号。Jekyll 是一个静态网站生成器。GitHub 原生支持 Jekyll，网上有非常多的开源的、精美的 Jekyll 模板，找一个喜欢的模板，修改一些参数，马上就可以发布到 GitHub，博客就这么搭好了。
 description: A man is not old as long as he is seeking something.
 headline: Jekyll + GitHub + Markdown = Your Blog
 category: 程序人生
